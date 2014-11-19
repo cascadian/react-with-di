@@ -1,0 +1,28 @@
+{
+  "name": "react-with-di",
+  "version": "0.1.0",
+  "description": "react-with-di\r =============",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cascadian/react-with-di.git"
+  },
+  "keywords": [
+    "react",
+    "di"
+  ],
+  "author": "Paul Currit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cascadian/react-with-di/issues"
+  },
+  "homepage": "https://github.com/cascadian/react-with-di",
+  "dependencies": {
+    "di": "git://github.com/angular/di.js",
+    "react": "^0.12.1",
+    "traceur": "0.0.74"
+  }
+}
